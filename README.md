@@ -1,5 +1,7 @@
 # shoal
 
+[![Build Status](https://travis-ci.org/cernops/puppet-shoal.svg?branch=master)](https://travis-ci.org/cernops/puppet-shoal)
+
 ## Overview
 
 Configures shoal. Only the shoal agent can currently
