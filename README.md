@@ -52,7 +52,6 @@ would configure shoal_agent configuration with
 squid_port = 4000
 ```
 
-
 ## License
 Apache II license
 
