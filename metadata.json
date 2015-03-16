@@ -1,0 +1,20 @@
+{
+  "name": "CERNOps-shoal",
+  "version": "0.1.0",
+  "author": "CERNOps",
+  "summary": "Shoal publishes http proxy locations",
+  "license": "Apache 2.0",
+  "source": "http://github.com/cernops/puppet-shoal",
+  "project_page": "https://github.com/cernops/puppet-shoal",
+  "issues_url": "https://github.com/cernops/puppet-shoal/issues",
+  "operatingsystem_support": [
+    { "operatingsystem": "RedHat",
+      "operatingsystemrelease": ["6.0", "7.0" ]
+    }
+  ],
+  "dependencies": [
+     { "name": "puppetlabs/inifile", "version_requirement": ">=0.0.1" }
+  ]
+
+
+}
