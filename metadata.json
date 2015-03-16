@@ -7,6 +7,7 @@
   "source": "http://github.com/cernops/puppet-shoal",
   "project_page": "https://github.com/cernops/puppet-shoal",
   "issues_url": "https://github.com/cernops/puppet-shoal/issues",
+  "tags": ["shoal", "cvmfs", "frontier", "squid" ],
   "operatingsystem_support": [
     { "operatingsystem": "RedHat",
       "operatingsystemrelease": ["6.0", "7.0" ]
